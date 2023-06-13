@@ -1,2 +1,4 @@
+# Create a google cloud project and after that, create an API key, also don't forget to install YouTube API in this project
 VUE_APP_KEY=
+# Link of the YouTube channel
 VUE_APP_CHANNEL=
